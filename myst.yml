@@ -13,12 +13,11 @@ project:
     lite: true
   toc:
     - file: foundations-of-python-data-analysis.md
-      children:
-        - file: understanding-the-data-analysis-landscape.md
-        - file: tools-and-languages-for-data-wrangling.md
-        - file: core-python-constructs-for-analysts.md
-        - file: debugging-and-error-resolution.md
-        - file: chapter-1-review.md
+    - file: understanding-the-data-analysis-landscape.md
+    - file: tools-and-languages-for-data-wrangling.md
+    - file: core-python-constructs-for-analysts.md
+    - file: debugging-and-error-resolution.md
+    - file: chapter-1-review.md
     - file: python-data-structures-and-file-management.md
       children:
         - file: built-in-data-collection-types.md
