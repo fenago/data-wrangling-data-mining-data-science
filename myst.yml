@@ -155,3 +155,4 @@ project:
 site:
   template: book-theme
   title: "Data Wrangling, Data Mining & Data Science"
+  base_url: "/data-wrangling-data-mining-data-science"
